@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawner : MonoBehaviour
+public class spawners : MonoBehaviour
 {
     public float queueTime = 1.5f;
     private float time = 0;
