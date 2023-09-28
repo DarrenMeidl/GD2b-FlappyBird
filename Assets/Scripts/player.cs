@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//0 references
 public class player : MonoBehaviour
 {
     //1 reference
@@ -18,7 +19,7 @@ public class player : MonoBehaviour
     void Update()
     {
         if (Input.GetMouseButtonDown(0)){
-            rigidbody.
+            rigidbody.velocity = Vector2.up * velocity;
         }
     }
 }
