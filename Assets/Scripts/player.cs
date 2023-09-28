@@ -7,7 +7,7 @@ public class player : MonoBehaviour
     //1 reference
     public float velocity = 2.4f;
     //2 references
-    private float 
+    private Rigidbody2D rigidbody;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +17,8 @@ public class player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetMouseButtonDown(0)){
+            rigidbody.
+        }
     }
 }
