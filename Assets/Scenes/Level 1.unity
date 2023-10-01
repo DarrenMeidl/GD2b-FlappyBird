@@ -776,9 +776,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d5e487f3a0e71440b461a4ea0103db7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  queueTime: 1.5
-  obstacle: {fileID: 0}
-  height: 0
+  queueTime: 3
+  obstacle: {fileID: 1306675538}
+  height: 2
 --- !u!1 &1306675538
 GameObject:
   m_ObjectHideFlags: 0
