@@ -4,18 +4,16 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEditor.SceneManagement;
-
 public class GameManager : MonoBehaviour
 {
     public GameObject startButton;
-    public Player player;
-    public TMP_Text gameOverCountdown;
-    public float countTimer = 5;
-
+    public Player player; 
+    public TMP_Text gameOverCountdown; 
+    public float countTimer = 5; 
     // Start is called before the first frame update
     void Start()
     {
-        gameOverCountdown.GameObject.SetActive(false);
+        gameOverCountdown.gameObject.SetActive(false);
         Time.timeScale = 0;
     }
 
@@ -23,19 +21,22 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         if(player.isDead){
-            gameOverCountdown.GameObject.SetActive(true);
-            countTimer -= Time.unscaledDeltaTime;
+            gameOverCountdown.gameObject.SetActive(true);
+            countTimer -= Time.unscaledDeltaTime; 
         }
-        gameOverCountdown.text= "Restarting in " + (countTimer.toString());
+        gameOverCountdown.text= "Restarting in " + (countTimer).ToString("0");
         if(countTimer <0){
-            RestartGmae();
+            RestartGame();
         }
     }
     public void StartGame(){
         startButton.SetActive(false);
+        Time.timeScale = 1;
+    }
+    public void GameOver(){
         Time.timeScale = 0;
     }
-    public void RestartGmae(){
+    public void RestartGame(){
         EditorSceneManager.LoadScene(0);
     }
 }
