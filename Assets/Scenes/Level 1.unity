@@ -657,6 +657,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1101433715}
+  - component: {fileID: 1101433716}
   m_Layer: 0
   m_Name: ObjectSpawner
   m_TagString: Untagged
@@ -679,6 +680,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1101433716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101433714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5e487f3a0e71440b461a4ea0103db7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  queueTime: 1.5
+  obstacle: {fileID: 0}
+  height: 0
 --- !u!1 &1306675538
 GameObject:
   m_ObjectHideFlags: 0
@@ -688,7 +704,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1306675539}
-  - component: {fileID: 1306675541}
+  - component: {fileID: 1306675540}
   m_Layer: 0
   m_Name: Pipes
   m_TagString: Untagged
@@ -713,7 +729,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1306675541
+--- !u!114 &1306675540
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -725,6 +741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cc4884a6c7c2694bbb306c3a18cd902, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0
 --- !u!1 &1673897894
 GameObject:
   m_ObjectHideFlags: 0
@@ -945,6 +962,7 @@ GameObject:
   - component: {fileID: 2054135278}
   - component: {fileID: 2054135281}
   - component: {fileID: 2054135282}
+  - component: {fileID: 2054135283}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1105,6 +1123,21 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0021914248, y: -0.0021923184}
   m_Size: {x: 1.1568125, y: 0.7885426}
   m_Direction: 1
+--- !u!114 &2054135283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2054135277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b98145506d11246b6daa6c4f4df04a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
+  isDead: 0
+  velocity: 2.4
 --- !u!1 &2076369396
 GameObject:
   m_ObjectHideFlags: 0
