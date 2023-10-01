@@ -9,17 +9,15 @@ public class Spawner : MonoBehaviour
     public GameObject obstacle;
     public float height;
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+ 
 
     // Update is called once per frame
     void Update()
     {
         if(time>queueTime){
             GameObject go = Instantiate(obstacle);
-            go.tranform.position = transform.position + new Vector3(0,Random.Range(-height,height),0);
+            go.transform.position = transform.position + 
+            new Vector3(0,Random.Range(-height,height), 0);
             time = 0 ;
             Destroy(go, 10);
         }
