@@ -825,7 +825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cc4884a6c7c2694bbb306c3a18cd902, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 2
 --- !u!1 &1673897894
 GameObject:
   m_ObjectHideFlags: 0
@@ -1326,7 +1326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
   isDead: 0
-  velocity: 2.4
+  velocity: 3
 --- !u!1 &2076369396
 GameObject:
   m_ObjectHideFlags: 0
