@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: bfb1105c021167d41bd7067b01d223d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1769452274860119449
+    second: bulletBillResources2_0
+  - first:
+      213: -836732961857170735
+    second: bulletBillResources2_1
+  - first:
+      213: -1546659536838782467
+    second: bulletBillResources2_2
+  - first:
+      213: -2743150815086194856
+    second: bulletBillResources2_3
+  - first:
+      213: -6561362043860025228
+    second: bulletBillResources2_4
+  - first:
+      213: -3405680254687000258
+    second: bulletBillResources2_5
+  - first:
+      213: -2339082768734940871
+    second: bulletBillResources2_6
+  - first:
+      213: 5770546199189430049
+    second: bulletBillResources2_7
+  - first:
+      213: -6624781221518718222
+    second: bulletBillResources2_8
+  - first:
+      213: -1643336191284875541
+    second: bulletBillResources2_9
+  - first:
+      213: -924996664215611983
+    second: bulletBillResources2_10
+  - first:
+      213: 5339322519033829515
+    second: bulletBillResources2_11
+  - first:
+      213: 5291467825791926871
+    second: bulletBillResources2_12
+  - first:
+      213: 6311246700892627896
+    second: bulletBillResources2_13
+  - first:
+      213: 1284689394263518776
+    second: bulletBillResources2_14
+  - first:
+      213: 6454666618310279052
+    second: bulletBillResources2_15
+  - first:
+      213: -2198187556877934932
+    second: bulletBillResources2_16
+  - first:
+      213: 8097966176286157947
+    second: bulletBillResources2_17
+  - first:
+      213: 4080092814983690925
+    second: bulletBillResources2_18
+  - first:
+      213: 6257893222001085958
+    second: bulletBillResources2_19
+  - first:
+      213: -7542308551063987032
+    second: bulletBillResources2_20
+  - first:
+      213: -5205700198543113092
+    second: bulletBillResources2_21
+  - first:
+      213: -4423061690485410500
+    second: bulletBillResources2_22
+  - first:
+      213: -4747361664759543328
+    second: bulletBillResources2_23
+  - first:
+      213: -4948423664776358309
+    second: bulletBillResources2_24
+  - first:
+      213: -864390483261684216
+    second: bulletBillResources2_25
+  - first:
+      213: 1047822092061546598
+    second: bulletBillResources2_26
+  - first:
+      213: 5308027142699982188
+    second: bulletBillResources2_27
+  - first:
+      213: 3212239776209493188
+    second: bulletBillResources2_28
+  - first:
+      213: 5025289024052073111
+    second: bulletBillResources2_29
+  - first:
+      213: -5248941366801669421
+    second: bulletBillResources2_30
+  - first:
+      213: -1282825997260313915
+    second: bulletBillResources2_31
+  - first:
+      213: -8445767141769032185
+    second: bulletBillResources2_32
+  - first:
+      213: 8229070008628673095
+    second: bulletBillResources2_33
+  - first:
+      213: 1905882459518621115
+    second: bulletBillResources2_34
+  - first:
+      213: -5881440562923125736
+    second: bulletBillResources2_35
+  - first:
+      213: 7500268728541391706
+    second: bulletBillResources2_36
+  - first:
+      213: -4216308254793174118
+    second: bulletBillResources2_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulletBillResources2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa4fde784a177e0800000000000000
+      internalID: -1769452274860119449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 179
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d294acedc35364f0800000000000000
+      internalID: -836732961857170735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 177
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df111468859298ae0800000000000000
+      internalID: -1546659536838782467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 174
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc6751ede5ee9d0800000000000000
+      internalID: -2743150815086194856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700ef41cfb51f4a0800000000000000
+      internalID: -6561362043860025228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 174
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c1d83ad79cb0d0800000000000000
+      internalID: -3405680254687000258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 177
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93111556d98e98fd0800000000000000
+      internalID: -2339082768734940871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 177
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9aaac139151050800000000000000
+      internalID: 5770546199189430049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac2b0249c0014a0800000000000000
+      internalID: -6624781221518718222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeebe7d072b139e0800000000000000
+      internalID: -1643336191284875541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d10b4f60c923f0800000000000000
+      internalID: -924996664215611983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885148ca85191a40800000000000000
+      internalID: 5339322519033829515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7528cb0c3f11f6940800000000000000
+      internalID: 5291467825791926871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3af80af6d069750800000000000000
+      internalID: 6311246700892627896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee9cf823224d110800000000000000
+      internalID: 1284689394263518776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fb4ff4715939950800000000000000
+      internalID: 6454666618310279052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5b9240187e71e0800000000000000
+      internalID: -2198187556877934932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 109
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2aac1551c16070800000000000000
+      internalID: 8097966176286157947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 109
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaf9b74cc66f9830800000000000000
+      internalID: 4080092814983690925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e03bbcab088d650800000000000000
+      internalID: 6257893222001085958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac907b6556545790800000000000000
+      internalID: -7542308551063987032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7448aa1043a1c7b0800000000000000
+      internalID: -5205700198543113092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 64
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c357afea3d02e92c0800000000000000
+      internalID: -4423061690485410500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e943bfe7bbfd1eb0800000000000000
+      internalID: -4747361664759543328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 64
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b565ede05eaa35bb0800000000000000
+      internalID: -4948423664776358309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 67
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80685f96f611104f0800000000000000
+      internalID: -864390483261684216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 67
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668922124ac9a8e00800000000000000
+      internalID: 1047822092061546598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d93ca2096e9a940800000000000000
+      internalID: 5308027142699982188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd85aae0b249c20800000000000000
+      internalID: 3212239776209493188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7921b440eb96db540800000000000000
+      internalID: 5025289024052073111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2eee013a30827b0800000000000000
+      internalID: -5248941366801669421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa9ac5d8c723ee0800000000000000
+      internalID: -1282825997260313915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec03b388b9aca80800000000000000
+      internalID: -8445767141769032185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af128c297833270800000000000000
+      internalID: 8229070008628673095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55147cffd037a10800000000000000
+      internalID: 1905882459518621115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c46f18fce06ea0800000000000000
+      internalID: -5881440562923125736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2ea4abae461860800000000000000
+      internalID: 7500268728541391706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletBillResources2_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9371813bf9ac75c0800000000000000
+      internalID: -4216308254793174118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bulletBillResources2_0: -1769452274860119449
+      bulletBillResources2_1: -836732961857170735
+      bulletBillResources2_10: -924996664215611983
+      bulletBillResources2_11: 5339322519033829515
+      bulletBillResources2_12: 5291467825791926871
+      bulletBillResources2_13: 6311246700892627896
+      bulletBillResources2_14: 1284689394263518776
+      bulletBillResources2_15: 6454666618310279052
+      bulletBillResources2_16: -2198187556877934932
+      bulletBillResources2_17: 8097966176286157947
+      bulletBillResources2_18: 4080092814983690925
+      bulletBillResources2_19: 6257893222001085958
+      bulletBillResources2_2: -1546659536838782467
+      bulletBillResources2_20: -7542308551063987032
+      bulletBillResources2_21: -5205700198543113092
+      bulletBillResources2_22: -4423061690485410500
+      bulletBillResources2_23: -4747361664759543328
+      bulletBillResources2_24: -4948423664776358309
+      bulletBillResources2_25: -864390483261684216
+      bulletBillResources2_26: 1047822092061546598
+      bulletBillResources2_27: 5308027142699982188
+      bulletBillResources2_28: 3212239776209493188
+      bulletBillResources2_29: 5025289024052073111
+      bulletBillResources2_3: -2743150815086194856
+      bulletBillResources2_30: -5248941366801669421
+      bulletBillResources2_31: -1282825997260313915
+      bulletBillResources2_32: -8445767141769032185
+      bulletBillResources2_33: 8229070008628673095
+      bulletBillResources2_34: 1905882459518621115
+      bulletBillResources2_35: -5881440562923125736
+      bulletBillResources2_36: 7500268728541391706
+      bulletBillResources2_37: -4216308254793174118
+      bulletBillResources2_4: -6561362043860025228
+      bulletBillResources2_5: -3405680254687000258
+      bulletBillResources2_6: -2339082768734940871
+      bulletBillResources2_7: 5770546199189430049
+      bulletBillResources2_8: -6624781221518718222
+      bulletBillResources2_9: -1643336191284875541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
