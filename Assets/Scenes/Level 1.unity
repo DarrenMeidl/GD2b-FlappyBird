@@ -266,9 +266,8 @@ GameObject:
   - component: {fileID: 179488213}
   - component: {fileID: 179488212}
   - component: {fileID: 179488211}
-  - component: {fileID: 179488210}
   - component: {fileID: 179488209}
-  - component: {fileID: 179488208}
+  - component: {fileID: 179488214}
   m_Layer: 0
   m_Name: BulletBill
   m_TagString: Untagged
@@ -276,21 +275,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &179488208
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 179488207}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5b98145506d11246b6daa6c4f4df04a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
-  isDead: 0
-  velocity: 3
 --- !u!70 &179488209
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -325,36 +309,9 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0021914248, y: -0.0021923184}
-  m_Size: {x: 1.1568125, y: 0.7885426}
+  m_Offset: {x: 0.027053768, y: 0.106428474}
+  m_Size: {x: 1.516107, y: 1.0057945}
   m_Direction: 1
---- !u!50 &179488210
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 179488207}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
 --- !u!95 &179488211
 Animator:
   serializedVersion: 7
@@ -363,7 +320,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 179488207}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: f018a1a03b0513649950f00fdb2dcf10, type: 2}
   m_CullingMode: 0
@@ -437,13 +394,26 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 179488207}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.86, y: 2.059147, z: -2.07}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.7, y: 2.059147, z: -2.07}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &179488214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 179488207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4452d098d34f2914bafa6cdc33345f71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 4
 --- !u!1 &205365817
 GameObject:
   m_ObjectHideFlags: 0
@@ -766,7 +736,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &820188038
 Rigidbody2D:
@@ -1105,6 +1075,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1101433715}
   - component: {fileID: 1101433716}
+  - component: {fileID: 1101433717}
   m_Layer: 0
   m_Name: ObjectSpawner
   m_TagString: Untagged
@@ -1142,6 +1113,21 @@ MonoBehaviour:
   queueTime: 2
   obstacle: {fileID: 1306675538}
   height: 2
+--- !u!114 &1101433717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101433714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 788837055fbab444dbe27d15a22e13cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  queueTime: 1.5
+  ObstacleBB: {fileID: 0}
+  height: 0
 --- !u!1 &1306675538
 GameObject:
   m_ObjectHideFlags: 0
@@ -1609,7 +1595,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &2054135281
 Rigidbody2D:
