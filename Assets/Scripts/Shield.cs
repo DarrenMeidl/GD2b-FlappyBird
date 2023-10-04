@@ -8,7 +8,6 @@ public class Shield : MonoBehaviour
     public float velocity = 2.4f;
     private Rigidbody2D rigidbody;
 
-
     // Start is called before the first frame update
     void Start()
     {
@@ -22,4 +21,10 @@ public class Shield : MonoBehaviour
             rigidbody.velocity = Vector2.up * velocity;
         }
     }
+    private void OnCollisionEnter2D(Collision2D other){
+        if (other.gameObject.name == "BulletBill"){
+                Destroy (other.gameObject);
+            }
+    }
+
 }

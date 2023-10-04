@@ -16,4 +16,5 @@ public class Obstacle : MonoBehaviour
     {
         transform.position += ((Vector3.left * speed) * Time.deltaTime);
     }
+
 }

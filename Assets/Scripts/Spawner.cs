@@ -22,5 +22,8 @@ public class Spawner : MonoBehaviour
             Destroy(go, 10);
         }
         time += Time.deltaTime;
+
     }
+
+    
 }
